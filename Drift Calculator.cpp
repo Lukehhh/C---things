@@ -67,6 +67,8 @@ int main()
 	double rollbarsfront;
 	double rollbarsrear;
 	//these are for a test, they output a decimal
+	
+	
 	double test1;
 	double test2;
 	double testanswer;
